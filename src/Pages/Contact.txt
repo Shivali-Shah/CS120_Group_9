@@ -1,0 +1,21 @@
+From the navbar at the top, a user can view the contact page by clicking on the
+contact link.
+
+The page will contain the same navbar as the home page, and also the logo.
+
+On the left hand side of the page will be a "Get in touch" section with basic contact
+details such as a phone number and email address. There will also be an address
+where we are based.
+
+There will be a paragraph detailing why you should get in contact with us, explaining
+that no matter the occasion (fashion photoshoot, wedding, etc) that we have the skills
+and passion to deliver exactly what they're looking for.
+
+There will be a short note detailing the areas that we cover (Glasgow, Edinburgh, Perth,
+Dundee).
+
+On the right hand side of the page there will be a contact form. The form will have many
+fields with textboxes where a user can enter in their information. This would be a name
+box, email address, tel number, requested date for shoot, the package that they're
+interested in, and a message for any extra details. At the bottom will also be a
+captcha to deter spam and bot attacks. After that, the user can submit the form.
