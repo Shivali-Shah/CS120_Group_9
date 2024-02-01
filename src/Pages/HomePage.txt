@@ -1,0 +1,14 @@
+The home page will be the landing page when you enter the website
+
+The page will contain our logo and website name at the top left
+
+Underneath this, there will be a navbar which contains all of the links to take the
+user to the various areas of the website. This will be Home, Portfolio/Gallery,
+Client access (where a logged in user can receive their photo package uploads),
+About us, Packages, and Contact.
+
+Further down the page, there will be a few example photos from previous shoots
+accompanied by a short description of what we do and where we are based.
+
+There will be a paragraph which details why we do this, why we are passionate about it.
+
