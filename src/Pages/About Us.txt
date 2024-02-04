@@ -1,0 +1,10 @@
+From the navbar at the top, a user can view the contact page by clicking on the
+'About Us' link.
+
+The page will contain the same navbar as the home page, and also the logo.
+
+There will be 5 photos beneath this, each with an image of the five of us and a brief
+description beneath the five photos talking about our backgrounds.
+
+Beneath this there will be an image of a map of where our shop is and a link to google
+maps beneath it. There will be a short paragraph detailing the history of our shop.
